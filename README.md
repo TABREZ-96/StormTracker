@@ -42,12 +42,7 @@
 
 10.Finally, push the changes to the remote repository on GitHub by running git push.
     
-## Running Program
-
-To run, run the following in terminal
-
-```Python
-  Python Art.py
+```LiveSever
 ```
 
 
