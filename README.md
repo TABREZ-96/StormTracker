@@ -22,7 +22,7 @@
   HTML, JAVASCRIPT , RESTFULL - API , BOOTSTRAP.
   
 
-```1. First, make sure you have the latest version of Node.js and npm (Node Package Manager) installed on your machine.
+1. First, make sure you have the latest version of Node.js and npm (Node Package Manager) installed on your machine.
 
 2. Clone the repository from Github to your local machine using the command git clone https://github.com/TABREZ-96/StormTracker.git
 
@@ -77,5 +77,4 @@ For support, email tabrez78546@gmail.com or message me on Linkdin @TABREZ SAYED.
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tabrez-sayed-b661641b8/)
 
 [MIT](https://choosealicense.com/licenses/mit/)
-
 
