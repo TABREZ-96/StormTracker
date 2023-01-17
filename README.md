@@ -1,7 +1,7 @@
 
 # StromTracker
  
- ntroducing Weather App, a powerful and intuitive application that helps you stay informed about the weather conditions in your area and around the world. With the app, you can easily check current weather conditions
+ Introducing Weather App, a powerful and intuitive application that helps you stay informed about the weather conditions in your area and around the world. With the app, you can easily check current weather conditions
 
  The Weather App uses RESTful API to access up-to-date weather data from a reliable source, ensuring that the information you receive is accurate and reliable. With a user-friendly interface, you can simply enter the location you want to check the weather for and the app will display the current temperature, humidity, wind speed, and more.
 
@@ -10,7 +10,7 @@
 
 ## Screenshots
 
-![Demo Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)(https://user-images.githubusercontent.com/114156392/212844173-35e7e6cc-749b-41e4-b91f-5642fd10b408.jpg)
+![Demo Screenshot](https://user-images.githubusercontent.com/114156392/212844173-35e7e6cc-749b-41e4-b91f-5642fd10b408.jpg)
 
 
 
@@ -51,7 +51,7 @@ To run, run the following in terminal
 ```
 
 
-##TECH
+## TECH
 
 1.Front-end: The front-end of the app is built using HTML, CSS, and JavaScript. We used Bootstrap for styling and responsive design.
 2.API integration: We integrated RESTFULL API to access current and forecast weather data for any location around the world.
@@ -83,10 +83,6 @@ For support, email tabrez78546@gmail.com or message me on Linkdin @TABREZ SAYED.
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tabrez-sayed-b661641b8/)
-
-
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
-
 
 ## License
 
