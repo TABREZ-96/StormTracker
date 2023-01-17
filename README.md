@@ -42,16 +42,10 @@
 
 10.Finally, push the changes to the remote repository on GitHub by running git push.
     
-## Running Program
-
-To run, run the following in terminal
-
-```Python
-  Python Art.py
-```
 
 
-##TECH
+
+## TECH
 1.Front-end: The front-end of the app is built using HTML, CSS, and JavaScript. We used Bootstrap for styling and responsive design.
 2.API integration: We integrated RESTFULL API to access current and forecast weather data for any location around the world.
 3.Version Control: We used Git and GitHub for version control and collaboration
